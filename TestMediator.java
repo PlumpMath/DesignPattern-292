@@ -1,5 +1,6 @@
 package design.pattern;
 
+//Some Comment
 interface IMediator{
 	public void fight();
 	public void talk();
